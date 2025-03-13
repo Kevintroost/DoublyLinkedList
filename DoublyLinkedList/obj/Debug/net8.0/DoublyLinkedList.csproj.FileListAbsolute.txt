@@ -1,0 +1,15 @@
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.exe
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.deps.json
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.runtimeconfig.json
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.dll
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.pdb
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.sourcelink.json
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.dll
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\refint\DoublyLinkedList.dll
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.pdb
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\net8.0\ref\DoublyLinkedList.dll
